@@ -31,8 +31,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## PROGRAM
 ```python
-Developed BY: VINOD KUMAR S
-Register NO: 212222240116
+Developed BY: DEVADARSHAN A S
+Register NO: 212222110007
 ```
 ## Libraries:
 ```
